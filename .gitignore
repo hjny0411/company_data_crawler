@@ -1,0 +1,14 @@
+# API 인증키
+.env
+.env.*
+
+# python 가상환경
+.venv/
+__pycache__/
+*.pyc
+
+# 로컬 데이터베이스
+*.db
+
+# Vs code 설정
+.vscode/
